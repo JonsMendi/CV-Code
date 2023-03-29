@@ -206,6 +206,8 @@ body{
 .cv_wrapper .resume_right .resume_namerole .role{
 	font-size: 14px;
 	text-transform: uppercase;
+	color: rgb(247, 244, 244);
+	left: 372px;
 }
 
 .cv_wrapper .resume_right .resume_item .resume_title{
